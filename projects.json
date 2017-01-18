@@ -16,4 +16,149 @@
     "institution_link" : "http://picongpu.hzdr.de",
     "repository" : "https://github.com/ComputationalRadiationPhysics/picongpu",
     "issue tracker" : "https://github.com/ComputationalRadiationPhysics/picongpu/issues"
-}]}
+},
+{
+    "title" : "alpaka",
+    "subtitle" : "Abstraction Library for Parallel Kernel Acceleration",
+    "description" : "The alpaka library is a header-only C++11 abstraction library for accelerator development. Its aim is to provide performance portability across accelerators through the abstraction (not hiding!) of the underlying levels of parallelism.",
+    "institution" : "HZDR",
+    "institution_link" : "https://www.hzdr.de/crp",
+    "repository" : "https://github.com/ComputationalRadiationPhysics/alpaka",
+    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/alpaka/issues"
+},
+{
+    "title" : "cupla",
+    "subtitle" : "C++ User interface for the Platform independent Library Alpaka",
+    "description" : "cupla is a simple user interface for the platform independent parallel kernel acceleration library alpaka. It follows a similar concept as the NVIDIA® CUDA® API by providing a software layer to manage accelerator devices. alpaka is used as backend for cupla.",
+    "institution" : "HZDR",
+    "institution_link" : "https://www.hzdr.de/crp",
+    "repository" : "https://github.com/ComputationalRadiationPhysics/cupla",
+    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/cupla/issues"
+},
+{
+    "title" : "ISAAC",
+    "subtitle" : "In Situ Animation of Accelerated Computations",
+    "description" : "Many computations like physics or biologists simulations these days run on accelerated hardware like CUDA GPUs or Intel Xeon Phi, which are itself distributed in a big compute cluster communicating over MPI. The goal of ISAAC is to visualize this data without the need to download it to the host while using the high computation speed of the accelerator.",
+    "institution" : "HZDR",
+    "institution_link" : "http://computationalradiationphysics.github.io/isaac/",
+    "repository" : "https://github.com/ComputationalRadiationPhysics/isaac",
+    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/isaac/issues"
+},
+{
+    "title" : "mallocMC",
+    "subtitle" : "Memory Allocator for Many Core Architectures",
+    "description" : "This project provides a framework for fast memory managers on many core accelerators. Currently, it supports NVIDIA GPUs of compute capability sm_20 or higher through the ScatterAlloc algorithm.",
+    "institution" : "HZDR",
+    "institution_link" : "https://www.hzdr.de/crp",
+    "repository" : "https://github.com/ComputationalRadiationPhysics/mallocMC",
+    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/mallocMC/issues"
+},
+{
+    "title" : "Graybat",
+    "subtitle" : "Graph Approach for Highly Generic Communication Schemes Based on Adaptive Topologies",
+    "description" : "Graybat is a C++ library that presents a graph-based communication approach, which enables a mapping of algorithms to communication patterns and further a mapping of these communication patterns to varying hardware architectures. Therefore, a flexible and configurable communication approach for parallel and distributed applications. These mappings are established as an intermediate layer between an application and communication libraries and are dynamically adptable during run-time.",
+    "institution" : "HZDR",
+    "institution_link" : "https://www.hzdr.de/crp",
+    "repository" : "https://github.com/ComputationalRadiationPhysics/graybat",
+    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/graybat/issues"
+},
+{
+    "title" : "DoDo",
+    "subtitle" : "Specification of HPC hardware and program components",
+    "description" : "An extensible framework to describe HPC hardware as well as large-scale scientific simulations. Dodo uses a hardware model, a worker model, data elements, and algorithms which are all described using graph-based data structures. These data structures are annotated with custom meta data to describe each layer in detail. Domain decompositions are expressed through graph mappings. These mappings combine the different models to form a comprehensive view of a simulation run.",
+    "institution" : "HZDR",
+    "institution_link" : "https://www.hzdr.de/crp",
+    "repository" : "https://github.com/ComputationalRadiationPhysics/DoDo",
+    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/DoDo/issues"
+},
+{
+    "title" : "ParaTAXIS",
+    "subtitle" : "PARAllel Tracer for Arbitrary X-ray Interaction and Scattering",
+    "description" : "This is a simulation framework for X-Ray Tracing with libPMacc.",
+    "institution" : "HZDR",
+    "institution_link" : "https://www.hzdr.de/crp",
+    "repository" : "https://github.com/ComputationalRadiationPhysics/parataxis",
+    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/parataxis/issues"
+},
+{
+    "title" : "liFFT",
+    "subtitle" : "library for Library-independent FFTs",
+    "description" : "This library contains a generic FFT interface that relies on C++11 features and template metaprogramming to do lots of compile time checks on the validity of the input. It also dynamically compiles only the used library code, which makes it possible to include libraries headers that are not installed on the system, as those are not used in that case.",
+    "institution" : "HZDR",
+    "institution_link" : "https://www.hzdr.de/crp",
+    "repository" : "https://github.com/ComputationalRadiationPhysics/liFFT",
+    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/liFFT/issues"
+},
+{
+    "title" : "imresh",
+    "subtitle" : "Shrink-Wrap Phase Reconstruction Algorithm",
+    "description" : "CUDA accelerated Phase Reconstruction Algorithm",
+    "institution" : "HZDR",
+    "institution_link" : "https://www.hzdr.de/crp",
+    "repository" : "https://github.com/ComputationalRadiationPhysics/imresh",
+    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/imresh/issues"
+},
+{
+    "title" : "raptr",
+    "subtitle" : "Reconstruction of activity from PET data using rays",
+    "description" : "raptr stands for reconstruction of activity from PET data using rays. It is a code developed at the HZDR for iterative algebraic image reconstruction of activity densities from PET measurements. raptr uses CUDA devices for acceleration and runs parallely across multiple nodes.",
+    "institution" : "HZDR",
+    "institution_link" : "https://www.hzdr.de/crp",
+    "repository" : "https://github.com/ComputationalRadiationPhysics/raptr",
+    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/raptr/issues"
+},
+{
+    "title" : "HASEonGPU",
+    "subtitle" : "High performance Amplified Spontaneous Emission on GPU",
+    "description" : "CUDA accelerated simulation of simulating the gain in laser media used in high-power laser systems.",
+    "institution" : "HZDR",
+    "institution_link" : "https://www.hzdr.de/crp",
+    "repository" : "https://github.com/ComputationalRadiationPhysics/haseongpu",
+    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/haseongpu/issues"
+},
+{
+    "title" : "SCPonGPU",
+    "subtitle" : "Simulation of strongly coupled plasma using GPUs",
+    "description" : "SCPonGPU is a code to simulate laser cooling of ions in storage rings and particle traps. In order to simulate the strong coupling of ions in these scenarios, the Coulomb interaction of all particles with each other is considered. This approach is called a molecular dynamics simulation, short MD, and has a computational complexity of NxN (with N being the number of particles). Since this product can be quite large, we simulate the particle-particle interaction on GPUs using CUDA, where we can exploit a highly parallel architecture to accelerate the simulation.",
+    "institution" : "HZDR",
+    "institution_link" : "https://www.hzdr.de/crp",
+    "repository" : "https://github.com/ComputationalRadiationPhysics/scpongpu",
+    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/scpongpu/issues"
+},
+{
+    "title" : "pyDive",
+    "subtitle" : "Distributed Interactive Visualization and Exploration of large datasets",
+    "description" : "Use pyDive to work with homogeneous, n-dimensional arrays that are too big to fit into your local machine's memory. pyDive provides containers whose elements are distributed across a cluster or stored in a large hdf5/adios-file if the cluster is still too small. All computation and data-access is then done in parallel (even on GPUs!) by the cluster nodes in the background. If you feel like working with numpy arrays pyDive has reached the goal!",
+    "institution" : "HZDR",
+    "institution_link" : "https://www.hzdr.de/crp",
+    "repository" : "https://github.com/ComputationalRadiationPhysics/pyDive",
+    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/pyDive/issues"
+},
+{
+    "title" : "cuda_memtest",
+    "subtitle" : "Fork of CUDA GPU memtest",
+    "description" : "Fork and updated (maintained) version of the famous cuda_memtest tool from the University of Illinois/NCSA. Supports recent Nvidia hardware and fixes dozens of bugs.",
+    "institution" : "HZDR",
+    "institution_link" : "https://www.hzdr.de/crp",
+    "repository" : "https://github.com/ComputationalRadiationPhysics/cuda_memtest",
+    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/cuda_memtest/issues"
+},
+{
+    "title" : "openPMD",
+    "subtitle" : "Open Standard for Particle-Mesh Data Files",
+    "description" : "The openPMD standard, short for open standard for particle-mesh data files is not a file format per se. It is a standard for meta data and naming schemes. Its used throughout several HPC projects including PIConGPU to exchange self-describing data between high-bandwidth simulations, experiments, post- and in situ processing frameworks.",
+    "institution" : "HZDR, LBNL, LLNL, MPI-CBG, TU Dresden, IOQ Jena",
+    "institution_link" : "http://openPMD.org",
+    "repository" : "http://github.com/openPMD",
+    "issue tracker" : "https://github.com/openPMD/openPMD-standard/issues"
+},
+{
+    "title" : "libSplash",
+    "subtitle" : "Simple Parallel file output Library for Accumulating Simulation data using Hdf5",
+    "description" : "libSplash aims at developing a HDF5-based I/O library for HPC simulations. It is created as an easy-to-use frontend for the standard HDF5 library with support for MPI processes in a cluster environment. While the standard HDF5 library provides detailed low-level control, libSplash simplifies tasks commonly found in large-scale HPC simulations, such as iterative computations and MPI distributed processes.",
+    "institution" : "ZIH, HZDR",
+    "institution_link" : "https://www.hzdr.de/crp",
+    "repository" : "https://github.com/ComputationalRadiationPhysics/libSplash",
+    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/libSplash/issues"
+},
+]}
