@@ -15,7 +15,7 @@
     "institution" : "HZDR",
     "institution_link" : "http://picongpu.hzdr.de",
     "repository" : "https://github.com/ComputationalRadiationPhysics/picongpu",
-    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/picongpu/issues"
+    "issue_tracker" : "https://github.com/ComputationalRadiationPhysics/picongpu/issues"
 },
 {
     "title" : "alpaka",
@@ -24,7 +24,7 @@
     "institution" : "HZDR",
     "institution_link" : "https://www.hzdr.de/crp",
     "repository" : "https://github.com/ComputationalRadiationPhysics/alpaka",
-    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/alpaka/issues"
+    "issue_tracker" : "https://github.com/ComputationalRadiationPhysics/alpaka/issues"
 },
 {
     "title" : "cupla",
@@ -33,7 +33,7 @@
     "institution" : "HZDR",
     "institution_link" : "https://www.hzdr.de/crp",
     "repository" : "https://github.com/ComputationalRadiationPhysics/cupla",
-    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/cupla/issues"
+    "issue_tracker" : "https://github.com/ComputationalRadiationPhysics/cupla/issues"
 },
 {
     "title" : "ISAAC",
@@ -42,7 +42,7 @@
     "institution" : "HZDR",
     "institution_link" : "http://computationalradiationphysics.github.io/isaac/",
     "repository" : "https://github.com/ComputationalRadiationPhysics/isaac",
-    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/isaac/issues"
+    "issue_tracker" : "https://github.com/ComputationalRadiationPhysics/isaac/issues"
 },
 {
     "title" : "mallocMC",
@@ -51,7 +51,7 @@
     "institution" : "HZDR",
     "institution_link" : "https://www.hzdr.de/crp",
     "repository" : "https://github.com/ComputationalRadiationPhysics/mallocMC",
-    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/mallocMC/issues"
+    "issue_tracker" : "https://github.com/ComputationalRadiationPhysics/mallocMC/issues"
 },
 {
     "title" : "Graybat",
@@ -60,7 +60,7 @@
     "institution" : "HZDR",
     "institution_link" : "https://www.hzdr.de/crp",
     "repository" : "https://github.com/ComputationalRadiationPhysics/graybat",
-    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/graybat/issues"
+    "issue_tracker" : "https://github.com/ComputationalRadiationPhysics/graybat/issues"
 },
 {
     "title" : "DoDo",
@@ -69,7 +69,7 @@
     "institution" : "HZDR",
     "institution_link" : "https://www.hzdr.de/crp",
     "repository" : "https://github.com/ComputationalRadiationPhysics/DoDo",
-    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/DoDo/issues"
+    "issue_tracker" : "https://github.com/ComputationalRadiationPhysics/DoDo/issues"
 },
 {
     "title" : "ParaTAXIS",
@@ -78,7 +78,7 @@
     "institution" : "HZDR",
     "institution_link" : "https://www.hzdr.de/crp",
     "repository" : "https://github.com/ComputationalRadiationPhysics/parataxis",
-    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/parataxis/issues"
+    "issue_tracker" : "https://github.com/ComputationalRadiationPhysics/parataxis/issues"
 },
 {
     "title" : "liFFT",
@@ -87,7 +87,7 @@
     "institution" : "HZDR",
     "institution_link" : "https://www.hzdr.de/crp",
     "repository" : "https://github.com/ComputationalRadiationPhysics/liFFT",
-    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/liFFT/issues"
+    "issue_tracker" : "https://github.com/ComputationalRadiationPhysics/liFFT/issues"
 },
 {
     "title" : "imresh",
@@ -96,7 +96,7 @@
     "institution" : "HZDR",
     "institution_link" : "https://www.hzdr.de/crp",
     "repository" : "https://github.com/ComputationalRadiationPhysics/imresh",
-    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/imresh/issues"
+    "issue_tracker" : "https://github.com/ComputationalRadiationPhysics/imresh/issues"
 },
 {
     "title" : "raptr",
@@ -105,7 +105,7 @@
     "institution" : "HZDR",
     "institution_link" : "https://www.hzdr.de/crp",
     "repository" : "https://github.com/ComputationalRadiationPhysics/raptr",
-    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/raptr/issues"
+    "issue_tracker" : "https://github.com/ComputationalRadiationPhysics/raptr/issues"
 },
 {
     "title" : "HASEonGPU",
@@ -114,7 +114,7 @@
     "institution" : "HZDR",
     "institution_link" : "https://www.hzdr.de/crp",
     "repository" : "https://github.com/ComputationalRadiationPhysics/haseongpu",
-    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/haseongpu/issues"
+    "issue_tracker" : "https://github.com/ComputationalRadiationPhysics/haseongpu/issues"
 },
 {
     "title" : "SCPonGPU",
@@ -123,7 +123,7 @@
     "institution" : "HZDR",
     "institution_link" : "https://www.hzdr.de/crp",
     "repository" : "https://github.com/ComputationalRadiationPhysics/scpongpu",
-    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/scpongpu/issues"
+    "issue_tracker" : "https://github.com/ComputationalRadiationPhysics/scpongpu/issues"
 },
 {
     "title" : "pyDive",
@@ -132,7 +132,7 @@
     "institution" : "HZDR",
     "institution_link" : "https://www.hzdr.de/crp",
     "repository" : "https://github.com/ComputationalRadiationPhysics/pyDive",
-    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/pyDive/issues"
+    "issue_tracker" : "https://github.com/ComputationalRadiationPhysics/pyDive/issues"
 },
 {
     "title" : "cuda_memtest",
@@ -141,7 +141,7 @@
     "institution" : "HZDR",
     "institution_link" : "https://www.hzdr.de/crp",
     "repository" : "https://github.com/ComputationalRadiationPhysics/cuda_memtest",
-    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/cuda_memtest/issues"
+    "issue_tracker" : "https://github.com/ComputationalRadiationPhysics/cuda_memtest/issues"
 },
 {
     "title" : "openPMD",
@@ -150,7 +150,7 @@
     "institution" : "HZDR, LBNL, LLNL, MPI-CBG, TU Dresden, IOQ Jena",
     "institution_link" : "http://openPMD.org",
     "repository" : "http://github.com/openPMD",
-    "issue tracker" : "https://github.com/openPMD/openPMD-standard/issues"
+    "issue_tracker" : "https://github.com/openPMD/openPMD-standard/issues"
 },
 {
     "title" : "libSplash",
@@ -159,6 +159,6 @@
     "institution" : "ZIH, HZDR",
     "institution_link" : "https://www.hzdr.de/crp",
     "repository" : "https://github.com/ComputationalRadiationPhysics/libSplash",
-    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/libSplash/issues"
-},
+    "issue_tracker" : "https://github.com/ComputationalRadiationPhysics/libSplash/issues"
+}
 ]}
