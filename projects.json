@@ -1,0 +1,18 @@
+var projects = [{
+    "title" : "gearshifft",
+    "subtitle" : "Benchmark Suite for Heterogeneous Implementations of FFTs",
+    "description" : "This is a simple and easy extensible benchmark system to answer the question, which FFT library performs best under which conditions. Conditions are given by compute architecture, inplace or outplace as well as real or complex transforms, data precision, and so on.",
+    "institution" : "MPI-CBG",
+    "institution_link" : "https://www.mpi-cbg.de",
+    "repository" : "https://github.com/mpicbg-scicomp/gearshifft",
+    "issue_tracker" : "https://github.com/mpicbg-scicomp/gearshifft/issues"
+},
+{
+    "title" : "PIConGPU",
+    "subtitle" : "A particle-in-cell code for GPGPUs",
+    "description" : "PIConGPU is a fully relativistic, many GPGPU, 3D3V particle-in-cell (PIC) code. The Particle-in-Cell algorithm is a central tool in plasma physics. It describes the dynamics of a plasma by computing the motion of electrons and ions in the plasma based on Maxwell's equations.",
+    "institution" : "HZDR",
+    "institution_link" : "http://picongpu.hzdr.de",
+    "repository" : "https://github.com/ComputationalRadiationPhysics/picongpu",
+    "issue tracker" : "https://github.com/ComputationalRadiationPhysics/picongpu/issues"
+}];
