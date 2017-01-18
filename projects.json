@@ -1,4 +1,4 @@
-var projects = [{
+{ "gcoe_projects" : [{
     "title" : "gearshifft",
     "subtitle" : "Benchmark Suite for Heterogeneous Implementations of FFTs",
     "description" : "This is a simple and easy extensible benchmark system to answer the question, which FFT library performs best under which conditions. Conditions are given by compute architecture, inplace or outplace as well as real or complex transforms, data precision, and so on.",
@@ -15,4 +15,4 @@ var projects = [{
     "institution_link" : "http://picongpu.hzdr.de",
     "repository" : "https://github.com/ComputationalRadiationPhysics/picongpu",
     "issue tracker" : "https://github.com/ComputationalRadiationPhysics/picongpu/issues"
-}];
+}]}
