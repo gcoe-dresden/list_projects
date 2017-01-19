@@ -1,12 +1,16 @@
 {"gcoe_projects_intro" : "Our GCOE members work on many different software projects, almost all of them are open source and will be listed here soon.",
- "gcoe_projects" : [{
+ "gcoe_projects" : [
+{
     "title" : "gearshifft",
     "subtitle" : "Benchmark Suite for Heterogeneous Implementations of FFTs",
     "description" : "This is a simple and easy extensible benchmark system to answer the question, which FFT library performs best under which conditions. Conditions are given by compute architecture, inplace or outplace as well as real or complex transforms, data precision, and so on.",
     "institution" : "MPI-CBG",
     "institution_link" : "https://www.mpi-cbg.de",
     "repository" : "https://github.com/mpicbg-scicomp/gearshifft",
-    "issue_tracker" : "https://github.com/mpicbg-scicomp/gearshifft/issues"
+    "issue_tracker" : "https://github.com/mpicbg-scicomp/gearshifft/issues",
+    "license" : "Apache-2.0",
+    "publication" : "gearshifft - The FFT Benchmark Suite for Heterogeneous Platforms",
+    "publication_link" : "#"
 },
 {
     "title" : "PIConGPU",
