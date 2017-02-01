@@ -1,0 +1,143 @@
+{"gcoe_publications_intro" : "The members of the GPU Center of Excellence share their research results with the community by publications and workshops. Most of the latest GPU-related research publications are listed here.",
+ "2016" : [
+{
+    "author" : "A. Bieberle, T. Frust, M. Wagner, M. Bieberle, U. Hampel",
+    "text" : "Data processing performance analysis for ultrafast electron beam X-ray CT using parallel processing hardware architectures, in press",
+    "link" : ""
+},{
+    "author" : "C. Jentzsch, R. Dockhorn, J.-U. Sommer",
+    "text" : "A Highly Parallelizable Bond Fluctuation Model on the Body-Centered Cubic Lattice“, Parallel Processing and Applied Mathematics: 11th International Conference, PPAM 2015, Krakow, Poland, September 6-9, 2015. Revised Selected Papers, Part II, pp 301–311",
+    "link" : ""
+},{
+    "author" : "T. Karnagel",
+    "text" : "Heterogeneous-Query Optimization; VLDB 2016, PhD Workshop, New Deli, India.",
+    "link" : ""
+},{
+    "author" : "T. Karnagel, D. Habich, W. Lehner",
+    "text" : "Limitations of Intra-Operator Parallelism using Heterogeneous Computing Resources; ADBIS 2016, August 27-29., Praha, Czech Republic.",
+    "link" : ""
+},{
+    "author" : "Lang, M. ; John, A. ; Sommer, J.-U.",
+    "text" : "Model simulations on network formation and swelling as obtained from cross-linking co-polymerization reactions, Polymer 82 (2016) 138-155",
+    "link" : "http://www.ipfdd.de/en/publications/publication-list/?no_cache=1&tx_publicationsextbase_publication[publication]=46028&tx_publicationsextbase_publication[action]=show&tx_publicationsextbase_publication[controller]=Publication&cHash=85b84873c51f72c564eae51aa7836780"
+}],
+ "2015" : [
+     {
+         "author" : "A. Bieberle, M. Vogt, M. Wagner, M. Bieberle, F. Barthel, U. Hampel",
+         "text" : "Ultra-fast data processing and image reconstruction using parallel processing architectures, International Symposium on Industrial Process Tomography, Dresden, Germany, 1.-3. September 2015.",
+         "link" : ""}
+     ,{
+         "author" : "Robert Dietrich, Guido Juckeland, Michael Wolfe",
+         "text" : "OpenACC Programs Examined: A Performance Analysis Approach, 44th International Conference on Parallel Processing (ICPP), September 2015",
+         "link" : "http://dx.doi.org/10.1109/ICPP.2015.40"}
+     ,{
+         "author" : "Robert Dietrich, Ronny Tschüter",
+         "text" : "A Generic Infrastructure for OpenCL Performance Analysis, 8th International Conference on Intelligent Data Acquisition and Advanced Computing Systems (IDAACS), September 2015",
+         "link" : "http://dx.doi.org/10.1109/IDAACS.2015.7340754"}
+     ,{
+         "author" : "Gehrcke, Jan-Philip and Pisabarro, M. Teresa",
+         "text" : "Identification and characterization of a glycosaminoglycan binding site on interleukin-10 via molecular simulation methods, Journal of Molecular Graphics and Modelling 62, 97–104, September 2015.",
+         "link" : "http://www.sciencedirect.com/science/article/pii/S1093326315300462"}
+     ,{
+         "author" : "Giesecke, A., Albrecht, T., Gundrum, T., Herault, J., and Stefani, F.",
+         "text" : "Triadic resonances in non-linear simulations of a fluid flow in a precessing cylinder, New J. Phys., 17(11):113044",
+         "link" : ""}
+     ,{
+         "author" : "Giesecke, A., Albrecht, T., Gerbeth, G., Gundrum, T., and Stefani, F.",
+         "text" : "Numerical simulations for the DRESDYN precession dynamo, Magnetohydrodynamics, 51(2) 293–302",
+         "link" : ""}
+     ,{
+         "author" : "Grottel, Sebastian",
+         "text" : "MegaMol–A Prototyping Framework for Particle-based Visualization. In  Visualization and Computer Graphics, IEEE Transactions on 21 (2015), Nr. 2, S. 201–214.",
+         "link" : ""}
+     ,{
+         "author" : "Guido Juckeland, Alexander Grund, Wolfgang E. Nagel, Performance Portable Applications for Hardware Accelerators",
+         "text" : "Lessons Learned from SPEC ACCEL, in  Parallel and Distributed Processing Symposium Workshop (IPDPSW), 2015 IEEE International, pages 689-698, 2015. dx.doi.org/10.1109/ipdpsw.2015.26",
+         "link" : "http://dx.doi.org/10.1109/ipdpsw.2015.26"}
+     ,{
+         "author" : "Guido Juckeland, William Brantley, Sunita Chandrasekaran, Barbara Chapman, Shuai Che, Mathew Colgrove, Huiyu Feng, Alexander Grund, Robert Henschel, Wen-mei W. Hwu, Huian Li, Matthias S. Müller, Wolfgang E. Nagel, Maxim Perminov, Pavel Shelepugin, Kevin Skadron, John Stratton, Alexey Titov, Ke Wang, Matthijs van Waveren, Brian Whitney, Sandra Wienke, Rengan Xu and Kalyan Kumaran",
+         "text" : " SPEC ACCEL: A Standard Application Suite for Measuring Hardware Accelerator Performance, in: High Performance Computing Systems. Performance Modeling, Benchmarking, and Simulation, pages 46-67, Springer International Publishing. dx.doi.org/10.1007/978-3-319-17248-4_3",
+         "link" : "http://dx.doi.org/10.1007/978-3-319-17248-4_3"}
+     ,{
+         "author" : "Alexander Kirillov, Dmitrij Schlesinger, Walter Forkel, Anatoly Zelenin, Shuai Zheng, Philip Torr, Carsten Rother",
+         "text" : "Efficient Likelihood Learning of a Generic CNN-CRF Model for Semantic Segmentation.",
+         "link" : "http://arxiv.org/abs/1511.05067"}
+     ,{
+         "author" : "A. Krull, E. Brachmann, F. Michel, M. Ying Yang, S. Gumhold, C. Rother",
+         "text" : "Learning Analysis-by-Synthesis for 6D Pose Estimation in RGB-D Images, Supplementary Material, ICCV.",
+         "link" : "http://cvlab-dresden.de/HTML/people/alexander_krull/publications/krull2015-supp.pdf"}
+     ,{
+         "author" : "David L. Richmond, Dagmar Kainmueller, Michael Y. Yang, Eugene W. Myers, Carsten Rother",
+         "text" : "Relating Cascaded Random Forests to Deep Convolutional Neural Networks for Semantic Segmentation.",
+         "link" : "http://arxiv.org/abs/1507.07583"}
+     ,{
+         "author" : "Lang, M. ; Fischer, J. ; Werner, M. ; Sommer, J.-U. Olympic gels",
+         "text" : "Concatenation and swelling, Macromolecular Symposia 358 (2015) 140-147",
+         "link" : ""}
+     ,{
+         "author" : "Staib, Joachim; Grottel, Sebastian; Gumhold, Stefan",
+         "text" : "Visualization of Particle-based Data with Transparency and Ambient Occlusion. In: Computer Graphics Forum 34 (2015), Nr. 3, S. 151–160, DOI: 10.1111/cgf.12627",
+         "link" : ""}
+     ,{
+         "author" : "Karnagel, T.; Habich, D.; Lehner, W.;",
+         "text" : "Local vs. Global Optimization: Operator Placement Strategies in Heterogeneous Environments, First International Workshop on Data (Co)Processing on Heterogeneous Hardware (DAPHNE 2015), March 27, 2015, Brussels, Belgium",
+         "link" : ""}
+     ,{
+         "author" : "Karnagel, T.; Mueller, R.; Lohman, G.;",
+         "text" : "Optimizing GPU-accelerated Group-By and Aggregation. In Proceedings of the VLDB Endowment 2015 (ADMS’15), 2015, Kohala Coast, Hawaii, USA.",
+         "link" : ""}
+     ,{
+         "author" : "Nore, C., Léorat, J., Guermond, J.-L., and Giesecke, A.",
+         "text" : "Mean-field model of the von Kármán sodium dynamo experiment using soft iron impellers, Phys. Rev. E, 91(1):013008.",
+         "link" : ""}
+     ,{
+         "author" : "F. Stefani, T. Albrecht, G. Gerbeth, A. Giesecke, T. Gundrum, J. Herault, C. Nore, C. Steglich",
+         "text" : "Towards a precession driven dynamo experiment”. Magnetohydrodynamics (2015), 51 (2), 275-284.",
+         "link" : ""}
+     ,{
+         "author" : "Werner, M. ; Sommer, J.-U.",
+         "text" : "Translocation and induced permeability of random amphiphilic copolymers interacting with lipid bilayer membranes, Biomacromolecules 16 (2015) 125-135",
+         "link" : ""}
+ ],
+ "2014" : [
+     {
+         "author" : "Felix Schmitt, Jonas Stolle and Robert Dietrich",
+         "text" : "CASITA: A Tool for Identifying Critical Optimization Targets in Distributed Heterogeneous Applications, 43th International Conference on Parallel Processing Workshops (ICPPW), September 2014 ",
+         "link" : "http://dx.doi.org/10.1109/ICPPW.2014.35"}
+     ,{
+         "author" : "Felix Schmitt, Robert Dietrich, Guido Juckeland",
+         "text" : "Scalable Critical Path Analysis for Hybrid MPI-CUDA Applications, IEEE International Parallel & Distributed Processing Symposium Workshops (IPDPSW), May 2014",
+         "link" : "http://dx.doi.org/10.1109/IPDPSW.2014.103"}
+     ,{
+         "author" : "Galuschko, A. ; Lang, M. ; Kreer, T. ; Sommer, J.-U",
+         "text" : "Monte Carlo simulation of thin film polymer melts, Soft Materials 12 (2014) S49-S55",
+         "link" : "http://www.ipfdd.de/en/publications/publication-list/?no_cache=1&tx_publicationsextbase_publication[publication]=42582&tx_publicationsextbase_publication[action]=show&tx_publicationsextbase_publication[controller]=Publication&cHash=5ae7b9b0435d1d832e0cf900fd1ed4ee"}
+     ,{
+         "author" : "Giesecke, A., Stefani, F., and Gerbeth, G.",
+         "text" : "Magnetic material in mean-field dynamos driven by small scale helical flows, New J. Phys., 16(7) 073034",
+         "link" : ""}
+     ,{
+         "author" : "C. Jentzsch, J.-U. Sommer",
+         "text" : "Polymer brushes in explicit poor solvents studied using a new variant of the bond fluctuation model, Journal of Chemical Physics 141 (2014) 104908",
+         "link" : ""}
+     ,{
+         "author" : "Karnagel, T.; Habich, D.; Schlegel, B.; Lehner, W.",
+         "text" : "Heterogeneity-Aware Operator Placement in Column-Store DBMS. Journal  Datenbank-Spektrum, September 2014.",
+         "link" : ""}
+     ,{
+         "author" : "Karnagel, T.; Hille, M.; Ludwig, M.; Habich, D.; Lehner, W.; Heimel, M.; Markl, V.",
+         "text" : "Demonstrating Efficient Query Processing in Heterogeneous Environments, Proceedings of the 2014 ACM SIGMOD (Demo Track), June 22-27, 2014, Snowbird, Utah, USA",
+         "link" : ""}
+     ,{
+         "author" : "Lang, M. ; Fischer, J. ; Werner, M. ; Sommer, J.-U.",
+         "text" : "Swelling of Olympic gels, Physical Review Letters 112 (2014) 238001(5)",
+         "link" : "http://www.ipfdd.de/en/publications/publication-list/?no_cache=1&tx_publicationsextbase_publication[publication]=43488&tx_publicationsextbase_publication[action]=show&tx_publicationsextbase_publication[controller]=Publication&cHash=22117af3a752e35cca4e497b30ba634d"}
+     ,{
+         "author" : "Ódor, G., Kelling, J., Gemming, S.",
+         "text" : "Aging of the (2+1)-dimensional Kardar-Parisi-Zhang model, Phys. Rev. E 89, 032146",
+         "link" : ""}
+     ,{
+         "author" : "Romeis, D. ; Lang, M.",
+         "text" : "Excluded volume effects in polymer brushes at moderate chain stretching,  Journal of Chemical Physics 141 (2014) 104901 (1 of 8)",
+         "link" : "http://www.ipfdd.de/en/publications/publication-list/?no_cache=1&tx_publicationsextbase_publication[publication]=44462&tx_publicationsextbase_publication[action]=show&tx_publicationsextbase_publication[controller]=Publication&cHash=0a7c50aa27076bbd696c235b6ff311de"}
+ ]}
