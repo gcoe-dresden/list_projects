@@ -17,9 +17,17 @@
     "text" : "Limitations of Intra-Operator Parallelism using Heterogeneous Computing Resources; ADBIS 2016, August 27-29., Praha, Czech Republic.",
     "link" : ""
 },{
+    "author" : "Jeffrey Kelling, Géza Ódor, and Sibylle Gemming",
+    "text" : "Universality of (2+1)-dimensional restricted solid-on-solid models. Phys. Rev. E 94, 022107",
+    "link" : "http://dx.doi.org/10.1103/PhysRevE.94.022107"
+},{
     "author" : "Lang, M. ; John, A. ; Sommer, J.-U.",
     "text" : "Model simulations on network formation and swelling as obtained from cross-linking co-polymerization reactions, Polymer 82 (2016) 138-155",
     "link" : "http://www.ipfdd.de/en/publications/publication-list/?no_cache=1&tx_publicationsextbase_publication[publication]=46028&tx_publicationsextbase_publication[action]=show&tx_publicationsextbase_publication[controller]=Publication&cHash=85b84873c51f72c564eae51aa7836780"
+},{
+    "author" : "M. Werner, T. Kolditz, T. Karnagel, D. Habich, W. Lehner",
+    "text" : "Multi-GPU Approximation Methods for Silent Data Corruption of AN Codes. Proceedings of the 12th International Workshops on Boolean Problems, September 2016, Freiberg University of Mining and Technology, Freiberg",
+    "link" : ""
 }],
  "2015" : [
      {
