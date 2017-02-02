@@ -21,6 +21,10 @@
     "text" : "Universality of (2+1)-dimensional restricted solid-on-solid models. Phys. Rev. E 94, 022107",
     "link" : "http://dx.doi.org/10.1103/PhysRevE.94.022107"
 },{
+    "author" : "Jeffrey Kelling, Géza Ódor, and Sibylle Gemming",
+    "text" : "Bit-Vectorized GPU Implementation of a Stochastic Cellular Automaton Model for Surface Growth; IEEE 20th International Conference on Intelligent Engineering Systems, Budapest, Hunguary",
+    "link" : "https://doi.org/10.1109/INES.2016.7555127"
+},{
     "author" : "Lang, M. ; John, A. ; Sommer, J.-U.",
     "text" : "Model simulations on network formation and swelling as obtained from cross-linking co-polymerization reactions, Polymer 82 (2016) 138-155",
     "link" : "http://www.ipfdd.de/en/publications/publication-list/?no_cache=1&tx_publicationsextbase_publication[publication]=46028&tx_publicationsextbase_publication[action]=show&tx_publicationsextbase_publication[controller]=Publication&cHash=85b84873c51f72c564eae51aa7836780"
