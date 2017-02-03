@@ -32,6 +32,10 @@
     "author" : "M. Werner, T. Kolditz, T. Karnagel, D. Habich, W. Lehner",
     "text" : "Multi-GPU Approximation Methods for Silent Data Corruption of AN Codes. Proceedings of the 12th International Workshops on Boolean Problems, September 2016, Freiberg University of Mining and Technology, Freiberg",
     "link" : ""
+},{
+    "author" : "A. Matthes",
+    "text" : "Alpaka - One Programming Model for Parallel Kernel Acceleration of Heterogeneous systems, September 28th, GTC Europe 2016, Amsterdam",
+    "link" : ""
 }],
  "2015" : [
      {
