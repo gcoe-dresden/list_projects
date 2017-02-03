@@ -32,6 +32,10 @@
     "author" : "M. Werner, T. Kolditz, T. Karnagel, D. Habich, W. Lehner",
     "text" : "Multi-GPU Approximation Methods for Silent Data Corruption of AN Codes. Proceedings of the 12th International Workshops on Boolean Problems, September 2016, Freiberg University of Mining and Technology, Freiberg",
     "link" : ""
+},{
+    "author" : "A. Matthes, A. Huebl, R. Widera, S. Grottel, S. Gumhold, M. Bussmann",
+    "text" : "In situ, steerable, hardware-independent and data-structure agnostic visualization with ISAAC, Supercomputing frontiers and innovations, [S.l.], v. 3, n. 4, p. 30-48, oct. 2016. ISSN 2313-8734.",
+    "link" : "http://dx.doi.org/10.14529/jsfi160403"
 }],
  "2015" : [
      {
