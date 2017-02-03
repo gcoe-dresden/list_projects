@@ -36,6 +36,10 @@
     "author" : "A. Matthes",
     "text" : "Alpaka - One Programming Model for Parallel Kernel Acceleration of Heterogeneous systems, September 28th, GTC Europe 2016, Amsterdam",
     "link" : ""
+},{
+    "author" : "A. Matthes, A. Huebl, R. Widera, S. Grottel, S. Gumhold, M. Bussmann",
+    "text" : "In situ, steerable, hardware-independent and data-structure agnostic visualization with ISAAC, Supercomputing frontiers and innovations, [S.l.], v. 3, n. 4, p. 30-48, oct. 2016. ISSN 2313-8734.",
+    "link" : "http://dx.doi.org/10.14529/jsfi160403"
 }],
  "2015" : [
      {
