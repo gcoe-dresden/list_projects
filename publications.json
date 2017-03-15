@@ -1,14 +1,25 @@
 {"gcoe_publications_intro" : "The members of the GPU Center of Excellence share their research results with the community by publications and workshops. Most of the latest GPU-related research publications are listed here.",
- "2016" : [
+ "2017" : [
 {
-    "author" : "T. Frust, G. Juckeland, A. Bieberle",
-    "text" : "Scalable and Modular Online Data Processing for Ultrafast Computed Tomography Using CUDA Pipelines, Proceedings of the 2nd Workshop on In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization, Salt Lake City, UT, USA, 2016, pp. 7-11",
-    "link" : "https://doi.org/10.1109/ISAV.2016.007"
-},
+    "author" : "F. Schmitt and R. Dietrich and G. Juckeland",
+    "title" : "Scalable critical-path analysis and optimization guidance for hybrid MPI-CUDA applications, International Journal of High Performance Computing Applications",
+    "link" : "http://dx.doi.org/10.1177/1094342016661865"
+}],
+ "2016" : [
 {
     "author" : "A. Bieberle, T. Frust, M. Wagner, M. Bieberle, U. Hampel",
     "text" : "Data processing performance analysis for ultrafast electron beam X-ray CT using parallel processing hardware architectures, in press",
     "link" : "http://dx.doi.org/10.1016/j.flowmeasinst.2016.04.004"
+},{
+    "author" : "T. Frust, G. Juckeland, A. Bieberle",
+    "text" : "Scalable and Modular Online Data Processing for Ultrafast Computed Tomography Using CUDA Pipelines, Proceedings of the 2nd Workshop on In Situ Infrastructures for Enabling Extreme-scale Analysis and Visualization, Salt Lake City, UT, USA, 2016, pp. 7-11",
+    "link" : "https://doi.org/10.1109/ISAV.2016.007"
+},{
+    "author" : "T. Frust",
+    "title" : "Entwicklung und Umsetzung eines echtzeitfähigen Datenverarbeitungs- und Rekonstruktionsalgorithmus für die ultraschnelle Elektronenstrahl-Röntgen-CT, Verteidigung der Diplomarbeit, Dresden, Deutschland"
+},{
+    "author" : "T. Frust and J. Kelling and G. Juckeland",
+    "title" : "In-Situ Analysis and Experiment Regulation at HZDR, PADC Annual Workshop 2016, 17.-18.10.2016, Jülich, Deutschland"
 },{
     "author" : "C. Jentzsch, R. Dockhorn, J.-U. Sommer",
     "text" : "A Highly Parallelizable Bond Fluctuation Model on the Body-Centered Cubic Lattice“, Parallel Processing and Applied Mathematics: 11th International Conference, PPAM 2015, Krakow, Poland, September 6-9, 2015. Revised Selected Papers, Part II, pp 301–311",
@@ -25,6 +36,61 @@
     "author" : "Jeffrey Kelling, Géza Ódor, and Sibylle Gemming",
     "text" : "Universality of (2+1)-dimensional restricted solid-on-solid models. Phys. Rev. E 94, 022107",
     "link" : "http://dx.doi.org/10.1103/PhysRevE.94.022107"
+},{
+    "author" : "R. Widera and A. Hübl and G. Juckeland",
+    "title" : "PIConGPU: First Experiences on Minski, PADC Annual Workshop 2016, 17.-18.10.2016, Jülich, Deutschland"
+},{
+    "author" : "G. Juckeland and R. Henschel",
+    "title" : "In-Depth Performance Analysis for OpenACC/CUDA/OpenCL Applications with Score-P and Vampir, GTC Europe 2016, 28.-29.09.2016, Amsterdam, Nederland"
+},{
+    "author" : "J. Kelling and G. Ódor and S. Gemming",
+    "title" : "Local Scale-Invariance of the 2+1 dimensional Kardar-Parisi-Zhang model",
+    "link" : "http://arxiv.org/abs/1609.05795"
+},{
+    "author" : "J. Kelling and G. Ódor and K. H. Heinig and M. Weigel and S. Gemming",
+    "title" : "Pushing the Limits of Lattice Monte-Carlo Simulations using GPUs, Perspectives of GPU computing in Science, 26.-28.09.2016, Roma, Italia"
+},{
+    "author" : "J. Kelling and K.-H. Heinig and S. Gemming",
+    "title" : "Experimental-Scale Kinetic Lattice Monte-Carlo Studies on GPU, E-MRS Fall Meeting, 19.-22.09.2016, Warschau, Polen"
+},{
+    "author" : "J. Kelling and G. Ódor and S. Gemming",
+    "title" : "Aging In The (2+1)-Dimensional Kardar-Parisi-Zhang Model Under Various Dimer Lattice-Gas Dynamics, Stat'Phys 26 - Statistical Physics Conference Satellite Non-equilibrium dynamics in classical and quantum systems: From quenches to slow relaxations, 13.-22.07.2016, Pont-à-Mousson, France"
+},{
+    "author" : "G. Juckeland and R. Dietrich",
+    "title" : "Profiling Performance of hybrid applications with Score-P and Vampir, Farber, Rob: OpenACC - Parallel Programming with OpenACC, Amsterdam: Elsevier, 2016, 978-0-12-410397-9, 55-68"
+},{
+    "author" : "J. Kelling and G. Ódor and S. Gemming",
+    "title" : "Bit-Vectorized GPU Implementation of a Stochastic Cellular Automaton Model for Surface Growth",
+    "link" : "https://arxiv.org/abs/1606.00310"
+},{
+    "author" : "J. Kelling and G. Ódor and S. Gemming",
+    "title" : "Bit-Vectorized GPU Implementation of a Stochastic Cellular Automaton Model for Surface Growth, 20th Jubilee IEEE International Conference on Intelligent Engineering Systems 2016: IEEE, 30.06.-02.07.2016, Budapest, Ungarn",
+    "link" : "http://dx.doi.org/10.1109/INES.2016.7555127"
+},{
+    "author" : "G. Juckeland and O. Hernandez and A. C. Jacob and D. Neilson and V. G. Vergara Larrea and S. Wienke and S. Chandrasekaran and A. Grund and R. Henschel and M. S. Müller and M. Perminov and P. Shelepugin and B. Whitney and W. Joubert and B. Wang and K. Kumaran and Email: info@spec.org – Website: http://www.spec.org/hpg SPEC High Performance Group (HPG) and A. Bobyr",
+    "title" : "From Describing to Prescribing Parallelism: Translating the SPEC ACCEL OpenACC Suite to OpenMP Target Directives, Workshop on Performance Portable Programming Models for Accelerators (P^3MA), 23.06.2016, Frankfurt (Main), Deutschland, Lecture Notes on Computer Science (LNCS) - Volume 9934: High Performance Computing ISC High Performance 2016 International Workshops, ExaComm, E-MuCoCoS, HPC-IODC, IXPUG, IWOPH, P^3MA, VHPC, WOPSSS, Frankfurt, Germany, June 19–23, 2016: Springer, 978-3-319-46078-9, 470-488",
+    "link" : "http://dx.doi.org/10.1007/978-3-319-46079-6_33"
+},{
+    "author" : "J. Kelling and G. Ódor and S. Gemming",
+    "title" : "Universality of (2+1)-dimensional restricted solid-on-solid models",
+    "link" : "http://arxiv.org/abs/1605.02620"
+},{
+    "author" : "E. Zenker and R. Widera and G. Juckeland and B. Worpitz and A. Hübl and A. Knüpfer and W. E. Nagel and M. Bussmann",
+    "title" : "Porting the Plasma Simulation PIConGPU to Heterogeneous Architectures with Alpaka, GPU Technology Conference, 04.-07.04.2016, San Jose, California, USA"
+},{
+    "author" : "E. Zenker and R. Widera and A. Hübl and G. Juckeland and A. Knüpfer and W. E. Nagel and M. Bussmann",
+    "title" : "Performance-Portable Many-Core Plasma Simulations: Porting PIConGPU to OpenPower and Beyond, International Workshop on OpenPower co-located with ISC High Performance, 23.06.2016, Frankfurt, Germany, Lecture Notes in Computer Science, Vol. 9945, 293-301",
+    "link" : "http://dx.doi.org/10.1007/978-3-319-46079-6_21"
+},{
+    "author" : "E. Zenker and B. Worpitz and R. Widera and A. Hübl and G. Juckeland and A. Knüpfer and W. E. Nagel and M. Bussmann",
+    "title" : "Alpaka - An Abstraction Library for Parallel Kernel Acceleration, The Sixth International Workshop on Accelerators and Hybrid Exascale Systems co-located with the 30th IEEE International Parallel & Distributed Processing Symposium, 23.-27.05.2016, Chicago Hyatt Regency Chicago, Illinois, USA, Proceedings of the 30th IEEE International Parallel and Distributed Processing Symposium"
+},{
+    "author" : "J. Kelling and G. Ódor and S. Gemming",
+    "title" : "Non-Local Lattice Encoding for Bit-Vectorized Cellular Automata GPU Implementations",
+    "link" : "http://on-demand.gputechconf.com/gtc/2016/posters/GTC_2016_Algorithms_AL_18_P6124_WEB.pdf"
+},{
+    "author" : "M. Bussmann and C. Eckert and A. Huebl and F. Jung and R. Widera and B. Worpitz and M. Zacharias and E. Zenker and G. Juckeland and A. Knüpfer and W. Nagel",
+    "title" : "Alpaka, GrayBat and other spiritual animals that will help you survive in the dangerous world of HPC, ZIH-Kolloquium, 28.01.2016, Dresden, Deutschland"
 },{
     "author" : "Jeffrey Kelling, Géza Ódor, and Sibylle Gemming",
     "text" : "Bit-Vectorized GPU Implementation of a Stochastic Cellular Automaton Model for Surface Growth; IEEE 20th International Conference on Intelligent Engineering Systems, Budapest, Hunguary",
