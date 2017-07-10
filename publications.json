@@ -1,6 +1,14 @@
 {"gcoe_publications_intro" : "The members of the GPU Center of Excellence share their research results with the community by publications and workshops. Most of the latest GPU-related research publications are listed here.",
  "2017" : [
 {
+    "author" : "A. Huebl, R. Widera, F. Schmitt, A. Matthes, N. Podhorszki, J. Y. Choi, S. Klasky, M. Bussmann",
+    "text" : "On the Scalability of Data Reduction Techniques in Current and Upcoming HPC Systems from an Application Perspective",
+    "link" : ""
+},{
+    "author" : "A. Matthes, R. Widera, E. Zenker, B. Worpitz, A. Huebl, M. Bussmann",
+    "text" : "Tuning and optimization for a variety of many-core architectures without changing a single line of implementation code using the Alpaka library",
+    "link" : ""
+},{
     "author" : "F. Schmitt and R. Dietrich and G. Juckeland",
     "text" : "Scalable critical-path analysis and optimization guidance for hybrid MPI-CUDA applications, International Journal of High Performance Computing Applications",
     "link" : "http://dx.doi.org/10.1177/1094342016661865"
@@ -83,7 +91,8 @@
     "link" : "http://dx.doi.org/10.1007/978-3-319-46079-6_21"
 },{
     "author" : "E. Zenker and B. Worpitz and R. Widera and A. Hübl and G. Juckeland and A. Knüpfer and W. E. Nagel and M. Bussmann",
-    "text" : "Alpaka - An Abstraction Library for Parallel Kernel Acceleration, The Sixth International Workshop on Accelerators and Hybrid Exascale Systems co-located with the 30th IEEE International Parallel & Distributed Processing Symposium, 23.-27.05.2016, Chicago Hyatt Regency Chicago, Illinois, USA, Proceedings of the 30th IEEE International Parallel and Distributed Processing Symposium"
+    "text" : "Alpaka - An Abstraction Library for Parallel Kernel Acceleration, The Sixth International Workshop on Accelerators and Hybrid Exascale Systems co-located with the 30th IEEE International Parallel & Distributed Processing Symposium, 23.-27.05.2016, Chicago Hyatt Regency Chicago, Illinois, USA, Proceedings of the 30th IEEE International Parallel and Distributed Processing Symposium",
+    "link" : "https://doi.org/10.1109/IPDPSW.2016.50"
 },{
     "author" : "J. Kelling and G. Ódor and S. Gemming",
     "text" : "Non-Local Lattice Encoding for Bit-Vectorized Cellular Automata GPU Implementations",
