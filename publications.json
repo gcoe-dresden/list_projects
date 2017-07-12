@@ -1,6 +1,11 @@
 {"gcoe_publications_intro" : "The members of the GPU Center of Excellence share their research results with the community by publications and workshops. Most of the latest GPU-related research publications are listed here.",
  "2017" : [
 {
+    "author" : "T. Frust, M. Wagner, J. Stephan, G. Juckeland, A. Bieberle",
+    "text" : "Rapid data processing for ultrafast X-ray computed tomography using scalable and modular CUDA based pipelines, Computer Physics Communications (2017),",
+    "link" : "http://dx.doi.org/10.1016/j.cpc.2017.05.025"
+},
+{
     "author" : "A. Huebl, R. Widera, F. Schmitt, A. Matthes, N. Podhorszki, J. Y. Choi, S. Klasky, M. Bussmann",
     "text" : "On the Scalability of Data Reduction Techniques in Current and Upcoming HPC Systems from an Application Perspective",
     "link" : ""
