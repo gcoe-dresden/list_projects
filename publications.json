@@ -17,6 +17,14 @@
     "author" : "F. Schmitt and R. Dietrich and G. Juckeland",
     "text" : "Scalable critical-path analysis and optimization guidance for hybrid MPI-CUDA applications, International Journal of High Performance Computing Applications",
     "link" : "http://dx.doi.org/10.1177/1094342016661865"
+},{
+    "author" : "T. Karnagel, T. Ben-Nun, M. Werner, D. Habich and W. Lehner",
+    "text" : "Big Data causing Big (TLB) Problems: Taming Random Memory Accesses on the GPU (2017), Proceedings of the 13th International Workshop on Data Management on New Hardware",
+    "link" : "http://doi.acm.org/10.1145/3076113.3076115"
+},{
+    "author" : "P. Steinbach and M. Werner",
+    "text" : "gearshifft - The FFT Benchmark Suite for Heterogeneous Platforms, ISC High Performance 2017",
+    "link" : "https://arxiv.org/abs/1702.00629"
 }],
  "2016" : [
 {
