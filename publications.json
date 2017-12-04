@@ -25,6 +25,18 @@
     "author" : "P. Steinbach and M. Werner",
     "text" : "gearshifft - The FFT Benchmark Suite for Heterogeneous Platforms, ISC High Performance 2017",
     "link" : "https://arxiv.org/abs/1702.00629"
+},{
+    "author" : "Dietrich R., Tschüter R., Juckeland G., Knüpfer A.",
+    "text" : "Analyzing Offloading Inefficiencies in Scalable Heterogeneous Applications. In: Kunkel J., Yokota R., Taufer M., Shalf J. (eds) High Performance Computing. ISC High Performance 2017. Lecture Notes in Computer Science, vol 10524. Springer",
+    "link" : "https://doi.org/10.1007/978-3-319-67630-2_34"
+},{
+    "author" : "S. Chandrasekaran, G. Juckeland",
+    "text" : "OpenACC for Programmers: Concepts and Strategies, Addison-Wesley Professional.",
+    "link" : "https://www.pearson.com/us/higher-education/program/Chandrasekaran-Open-ACC-for-Programmers-Concepts-and-Strategies/PGM1731224.html"
+},{
+    "author" : "M. Werner, T. Kolditz, T. Karnagel, D. Habich, W. Lehner",
+    "text" : "Multi-GPU Approximation for Silent Data Corruption of AN Codes. In: Further Improvements in the Boolean Domain, B. Steinbach (editor), Cambridge Scholars Publishing, 978-1-5275-0371-7.",
+    "link" : "http://www.cambridgescholars.com/further-improvements-in-the-boolean-domain"
 }],
  "2016" : [
 {
